@@ -1,470 +1,470 @@
 msgid You didn't define any ACL groups yet.
-msgstr
+msgstr Zatiaľ ste nedefinovali žiadne ACL skupiny.
 
 msgid No such group exists.
-msgstr
+msgstr Taká skupina neexistuje.
 
 msgid Bad group name (regex `{regex}`)
-msgstr
+msgstr Chybné meno skupiny (regex `{regex}`)
 
 msgid ACL group can't be named like that (regex `{regex}`).
-msgstr
+msgstr ACL skupina nemôže byť takto pomenovaná (regex `{regex}`).
 
 msgid Bad parameter.
-msgstr
+msgstr Zlý parameter.
 
 msgid No such group.
-msgstr
+msgstr Taká skupina neexistuje.
 
 msgid ACL group removed.
-msgstr
+msgstr ACL skupina odstránená.
 
 msgid **{count} rules** exported.
-msgstr
+msgstr **{count} pravidiel** bolo exportovaných.
 
 msgid No such ACL rule.
-msgstr
+msgstr Také ACL pravidlo neexistuje.
 
 msgid Rule removed.
-msgstr
+msgstr Pravidlo odstranené.
 
 msgid I've removed {count} rules.
-msgstr
+msgstr {count} pravidiel bolo odstránených.
 
 msgid I'm expecting one JSON file.
-msgstr
+msgstr Očakávam jeden JSON súbor.
 
 msgid You have to upload the JSON file.
-msgstr
+msgstr Musíš nahrať JSON súbor.
 
 msgid Your JSON file contains errors.
-msgstr
+msgstr Tvôj JSON súbor obsahuje chyby.
 
 msgid I've imported **{new}** new and **{updated}** updated rules.
-msgstr
+msgstr Bolo importovaných **{new}** nových a **{updated}** aktualizovaných pravidiel.
 
 msgid Skipping:
-msgstr
+msgstr Preskakujem:
 
 msgid expected `bool`
-msgstr
+msgstr očákavaný `bool`
 
 msgid expected `list`
-msgstr
+msgstr očákavaný `list`
 
 msgid invalid group
-msgstr
+msgstr neplatná skupina
 
 msgid expected `int`
-msgstr
+msgstr očákavaný `int`
 
 msgid duplicate
-msgstr
+msgstr duplikát
 
 msgid An unexpected error occurred
-msgstr
+msgstr Nastala nečakaná chyba
 
 msgid Command **{name}** is not enabled.
-msgstr
+msgstr Príkaz **{name}** nieje zapnutý.
 
 msgid Command **{name}** has been disabled.
-msgstr
+msgstr Príkaz **{name}** bol vypnutý.
 
 msgid Command **{name}** is not disabled.
-msgstr
+msgstr Príkaz **{name}** nebol vypnutý.
 
 msgid Command **{name}** has been enabled.
-msgstr
+msgstr Príkaz **{name}** bol zapnutý.
 
 msgid ACL group {name}
-msgstr
+msgstr ACL skupina {name}
 
 msgid Discord role
-msgstr
+msgstr Discord rola
 
 msgid Parent ACL group
-msgstr
+msgstr Rodičovská ACL skupina
 
 msgid Repository initialization aborted: {exc}
-msgstr
+msgstr Iniciálizacia repozitáru bola neúspešná: {exc}
 
 msgid Repository named `{name}` already exists.
-msgstr
+msgstr Repozitár s menom `{name}` už existuje.
 
 msgid Repository has been installed to `{path}`. It includes the following modules: {modules}.
-msgstr
+msgstr Repozitár bol nainštalovaný do `{path}`. Obsahuje následujúce moduly: {modules}.
 
 msgid No such repository.
-msgstr
+msgstr Tento repozitár neexistuje.
 
 msgid File `requirements.txt` changed, running `pip`.
-msgstr
+msgstr Súbor `requirements.txt` bol zmenený, spúšťam `pip`.
 
 msgid Could not change branch: {exc}
-msgstr
+msgstr Nepodarilo sa zmeniť vetvu: {exc}
 
 msgid Branch changed to **{branch}**.
-msgstr
+msgstr Vetva bola zmenená na **{branch}**.
 
 msgid This repository is protected.
-msgstr
+msgstr Repozitár je chránený.
 
 msgid Could not find the repository at {path}.
-msgstr
+msgstr Repozitár v {path} nebol nájdený.
 
 msgid Repository **{name}** uninstalled.
-msgstr
+msgstr Repozitár **{name}** bol odinštalovaný.
 
 msgid Please note that the modules have not been unloaded. When I start next time I'll attempt to load them. If they are not found, they will be silently skipped.
-msgstr
+msgstr Pamätaj, že moduly neboli uvoľnené. Pri ďalšom spustení sa ich pokúsim načítať. Pokiaľ nebudú nájdené, budú potichu preskočené.
 
 msgid Module **{name}** has been loaded.
-msgstr
+msgstr Modul **{name}** bol načítaný.
 
 msgid Module **{name}** cannot be unloaded.
-msgstr
+msgstr Modul **{name}** nemôže byť uvoľnený.
 
 msgid Module **{name}** has been unloaded.
-msgstr
+msgstr Modul **{name}** bol uvoľnený.
 
 msgid Module **{name}** has been reloaded.
-msgstr
+msgstr Modul **{name}** bol znovu načítaný.
 
 msgid Global configuration
-msgstr
+msgstr Globálna konfigurácia
 
 msgid Bot prefix
-msgstr
+msgstr Bot prefix
 
 msgid Language
-msgstr
+msgstr Jazyk
 
 msgid Status
-msgstr
+msgstr Stav
 
 msgid Key has to be one of: {keys}
-msgstr
+msgstr Kľúč musí byť jeden z: {keys}
 
 msgid Unsupported language
-msgstr
+msgstr Nepodporovaný jazyk
 
 msgid Valid status values are: {states}
-msgstr
+msgstr Správne hodnoty pre status sú: {states}
 
 msgid {channel} is already spam channel.
-msgstr
+msgstr {channel} už je spam kanál.
 
 msgid Channel {channel} added as spam channel.
-msgstr
+msgstr Kanál {channel} bol pridaný ako spam kanál.
 
 msgid This server has no spam channels.
-msgstr
+msgstr Tento server nemá žiadne spam kanály.
 
 msgid primary
-msgstr
+msgstr primárný
 
 msgid Spam channel {channel} removed.
-msgstr
+msgstr Spam kanál {channel} bol odobraný.
 
 msgid {channel} is not spam channel.
-msgstr
+msgstr {channel} nie je spam kanál.
 
 msgid Channel {channel} is not marked as spam channel, it cannot be made primary.
-msgstr
+msgstr Kanál {kanál} nie je označený ako spam kanál, nemožno ho nastaviť ako primárny.
 
 msgid Channel {channel} set as primary.
-msgstr
+msgstr Kanál {channel} nastavený ako primárny.
 
 msgid User pinning is not enabled on this server.
-msgstr
+msgstr Pripínanie užívateľmi nie je na tomto serveri povolené.
 
 msgid (server)
-msgstr
+msgstr (server)
 
 msgid Channel name
-msgstr
+msgstr Názov kanálu
 
 msgid Reaction limit
-msgstr
+msgstr Limit reakcií
 
 msgid Pinning was disabled.
-msgstr
+msgstr Pripínanie bolo vypnuté.
 
 msgid Pinning preferences have been updated.
-msgstr
+msgstr Pripínacie preferencie boli aktualizované.
 
 msgid The preference was unset.
-msgstr
+msgstr Preferencia bola zrušená.
 
 msgid Bookmarks are not enabled on this server.
-msgstr
+msgstr Záložky nejsou na tomto serveru povolené.
 
 msgid Yes
-msgstr
+msgstr Áno
 
 msgid No
-msgstr
+msgstr Nie
 
 msgid Enabled
-msgstr
+msgstr Zapnuto
 
 msgid User threads are not enabled on this server.
-msgstr
+msgstr Vlastná vlkákna nejsou na tomto serveru zapnutá.
 
 msgid Userthread 🧵
-msgstr
+msgstr Vlastné vlákna 🧵
 
 msgid Function is disabled
-msgstr
+msgstr Funkcia je vypnutá
 
 msgid Global limit
-msgstr
+msgstr Globálny limit
 
 msgid Channel #{channel}
-msgstr
+msgstr Kanál #{channel}
 
 msgid Limit has to be positive integer or zero (if you want the feature disabled).
-msgstr
+msgstr Limit musí byť kladné celé číslo alebo nula (ak má byť funkcia vypnutá).
 
 msgid Thread creation was disabled.
-msgstr
+msgstr Vytváranie vlákien bolo vypnuté.
 
 msgid Thread preference has been updated.
-msgstr
+msgstr Preferencie vlákien boli aktualizované.
 
 msgid No channel has autothread enabled.
-msgstr
+msgstr Automatické vlákna niesú povolené v žiadnom kanále.
 
 msgid Autothread 🧵
-msgstr
+msgstr Automatické vlákna 🧵
 
 msgid Channels
-msgstr
+msgstr Kanály
 
 msgid Argument *duration* must be one of these values: '1h', '1d', '3d', '7d'.
-msgstr
+msgstr Argument *duration* musí byť jedna z týchto hodnôt: '1h', '1d', '3d', '7d'.
 
 msgid Threads will be automatically created in that channel.
-msgstr
+msgstr V zadanom kanále budú vlákna automaticky vytvárané.
 
 msgid I'm not creating new threads in that channel.
-msgstr
+msgstr Nové vlákna v zadanom kanále automaticky nevytváram.
 
 msgid Threads will no longer be automatically created in that channel.
-msgstr
+msgstr Nové vlákna v zadanom kanále už automaticky vytvárať nebudem.
 
 msgid Automatic thread
-msgstr
+msgstr Automatické vlákno
 
 msgid I'm using 📍 to mark the pinned message, use 📌.
-msgstr
+msgstr Emoji 📍 používam ja pre označenie pripnutých správ, použi 📌.
 
 msgid 🔖 Bookmark created
-msgstr
+msgstr 🔖 Záložka vytvorená
 
 msgid [Server {guild}, channel #{channel}]({link})
-msgstr
+msgstr [Server {guild}, kanál #{channel}]({link})
 
 msgid Files
-msgstr
+msgstr Súbory
 
 msgid Total {count}
-msgstr
+msgstr Celkom {count}
 
 msgid Embeds
-msgstr
+msgstr Tabuľky
 
 msgid Thread by {author}
-msgstr
+msgstr Vlákno od {author}
 
 msgid Pong: **{delay}** 🏓
-msgstr
+msgstr Pong: **{delay}** 🏓
 
 msgid Uptime
-msgstr
+msgstr Uptime
 
 msgid Boot time
-msgstr
+msgstr Čas spustenia
 
 msgid Run time
-msgstr
+msgstr Doba od spustenia
 
 msgid Error content
-msgstr
+msgstr Obsah chyby
 
 msgid pumpkin.py exception
-msgstr
+msgstr Výnimka pumpkin.py
 
 msgid An environment variable is missing
-msgstr
+msgstr Chýba premenná prostredia
 
 msgid Module exception
-msgstr
+msgstr Výnimka modulu
 
 msgid Translation error
-msgstr
+msgstr Chyba prekladu
 
 msgid Command error
-msgstr
+msgstr Chyba príkazu
 
 msgid The command has to have an argument `{arg}`
-msgstr
+msgstr Príkaz musí mať argument `{arg}`
 
 msgid Permission error
-msgstr
+msgstr Chyba oprávnenia
 
 msgid Insufficient permission
-msgstr
+msgstr Nedostatočné oprávnenie
 
 msgid Slow down
-msgstr
+msgstr Spomaľ
 
 msgid Wait **{time}**
-msgstr
+msgstr Počkaj **{time}**
 
 msgid Too much concurrency
-msgstr
+msgstr Príliš veľa súbežnosti
 
 msgid This command is already running multiple times
-msgstr
+msgstr Tento príkaz už viackrát beží
 
 msgid The limit is **{num}**/**{per}**
-msgstr
+msgstr Limit je **{num}**/**{per}**
 
 msgid You have to have a {role} role for that
-msgstr
+msgstr Na toto musíš mať rolu {role}
 
 msgid I lack the role {role}
-msgstr
+msgstr Chýba mi rola {role}
 
 msgid You have to have one role of {roles}
-msgstr
+msgstr Musíš mať jednu z rol {roles}
 
 msgid I need one of roles {roles}
-msgstr
+msgstr Potrebujem jednu z rol {roles}
 
 msgid You lack some of {perms} permissions
-msgstr
+msgstr Nemáš niektoré z týchto oprávnení {perms}
 
 msgid I lack the {perms} permission
-msgstr
+msgstr Chýba mi oprávnenie {perms}
 
 msgid Argument error
-msgstr
+msgstr Chyba argumentu
 
 msgid Bad data type in the `{param}` parameter
-msgstr
+msgstr Nesprávný dátový typ v parametru `{param}`
 
 msgid Bad Boolean Argument
-msgstr
+msgstr Nesprávný binárny argument
 
 msgid Argument `{arg}` is not binary
-msgstr
+msgstr Argument `{arg}` nieje binárny
 
 msgid An error occurred in converter `{converter}`
-msgstr
+msgstr Nastala chyba v konvertoru `{converter}`
 
 msgid Not found
-msgstr
+msgstr Nenájdené
 
 msgid I can't see the **{channel}** channel
-msgstr
+msgstr Nevidím kanál **{channel}**
 
 msgid Bad Argument
-msgstr
+msgstr Nesprávný argument
 
 msgid Error in argument
-msgstr
+msgstr Chyba v argumentu
 
 msgid Extension Error
-msgstr
+msgstr Chyba rozšírenia
 
 msgid An error occurred inside of **{extension}** extension
-msgstr
+msgstr Stala se chyba v rozšíření **{extension}**
 
 msgid Extension **{extension}** is already loaded
-msgstr
+msgstr Rozšírenie **{extension}** už je načítané
 
 msgid **{extension}** failed
-msgstr
+msgstr **{extension}** zlyhalo
 
 msgid The extension **{extension}** could not be found
-msgstr
+msgstr Nebolo nájdené rozšírenie **{extension}**
 
 msgid The extension **{extension}** could not be found. It should be in `repository.module` format
-msgstr
+msgstr Rozšírenie **{extension}** nebolo nájdené. Malo by byť vo formátu `repository.module`
 
 msgid The extension **{extension}** is not loaded
-msgstr
+msgstr Rozšírenie **{extension}** nieje načítané
 
 msgid Error
-msgstr
+msgstr Chyba
 
 msgid Error on registering the command `{cmd}`
-msgstr
+msgstr Chyba pri registrácii príkazu `{cmd}`
 
 msgid Bad input
-msgstr
+msgstr Nesprávný vstup
 
 msgid Client error
-msgstr
+msgstr Chyba klienta
 
 msgid discord.py library error
-msgstr
+msgstr Chyba knižnice discord.py
 
 msgid Localization
-msgstr
+msgstr Lokalizácia
 
 msgid Available languages:
-msgstr
+msgstr Dostupné jazyky:
 
 msgid User settings
-msgstr
+msgstr Uživateľské nastavenia
 
 msgid Not set
-msgstr
+msgstr Nenastavené
 
 msgid Server settings
-msgstr
+msgstr Nastavenia serveru
 
 msgid Global settings
-msgstr
+msgstr Globálne nastavenia
 
 msgid I can't speak that language.
-msgstr
+msgstr Neovládam tento jazyk.
 
 msgid I'll remember the preference of **{language}**.
-msgstr
+msgstr Budem si pamätať preferenciu **{language}**.
 
 msgid You may need to wait two minutes for the change to take effect.
-msgstr
+msgstr Je možné, že budeš musieť počkat dve minúty, aby sa prejavila zmena.
 
 msgid You don't have any language preference.
-msgstr
+msgstr Nemáš žiadnu preferenciu jazyka.
 
 msgid I'll be using **{language}** on this server now.
-msgstr
+msgstr Na tomto serveru budem odteraz používať **{language}**.
 
 msgid This server doesn't have any language preference.
-msgstr
+msgstr Tento server nemá žiadne jazykové preferencie.
 
 msgid I'll be using the global settings from now on.
-msgstr
+msgstr Odteraz budem používať globálne nastavenia.
 
 msgid Logging is not enabled on this server.
-msgstr
+msgstr Logovanie nieje na tomto serveru zapnuté.
 
 msgid Invalid scope.
-msgstr
+msgstr Neplatný rozsah.
 
 msgid Invalid level.
-msgstr
+msgstr Neplatná úroveň.
 
 msgid Logging settings succesfully updated.
-msgstr
+msgstr Nastavenia logovania boli úspešne aktualizované.
 
 msgid Logging target unset.
-msgstr
+msgstr Logovací cieľ bol zrušený.
 
 msgid Supplied arguments didn't match any entries.
-msgstr
+msgstr Dodané argumenty nesúhlasia so žiadnými vstupmi.
